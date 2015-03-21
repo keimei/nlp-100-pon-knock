@@ -1,5 +1,5 @@
 # nlp-100-pon-knock
-[言語処理100本ノック 2015](https://github.com/kazup0n/nlp-100-pon-knock) を黙々とやります．
+[言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/) を黙々とやります．
 
 ## 100本ノック達成への道
 
